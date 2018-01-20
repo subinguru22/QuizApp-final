@@ -1,0 +1,230 @@
+{
+	"sports":
+	[
+		{
+			"_id":1,
+			"Question":"Subroto cup is associated with",
+			"OptionA":"Cricket",
+			"OptionB":"Football",
+			"OptionC":"Chess",
+			"OptionD":"Golf",
+			"Answer":"B"
+		},
+		{
+			"_id":2,
+			"Question":"2014 FIFA World Cup was  held in",
+			"OptionA":"London",
+			"OptionB":"Brazil",
+			"OptionC":"India",
+			"OptionD":"Germany",
+			"Answer":"A"
+		},
+		{
+			"_id":3,
+			"Question":"2010 winter Olympic were held in",
+			"OptionA":" USA",
+			"OptionB":"Russia",
+			"OptionC":"Vancouver",
+			"OptionD":"Australia",
+			"Answer":"C"
+		},
+		{
+			"_id":4,
+			"Question":"Wilson Jones is associated with",
+			"OptionA":" Hockey",
+			"OptionB":"Golf",
+			"OptionC":"Billiards",
+			"OptionD":" Air–race",
+			"Answer":"C"
+		},
+		{
+			"_id":5,
+			"Question":"The term “Slam” is associated with",
+			"OptionA":"Cricket",
+			"OptionB":"Tennis",
+			"OptionC":"Boxing",
+			"OptionD":"Football",
+			"Answer":"B"
+		},
+		{
+			"_id":6,
+			"Question":"Which county did Ravi Shastri play for",
+			"OptionA":"Glamorgan",
+			"OptionB":"Leicestershire",
+			"OptionC":"Gloucestershire",
+			"OptionD":"Lancashire",
+			"Answer":"A"
+		},
+		{
+			"_id":7,
+			"Question":"First Indian to win the World Amateur Billiards title",
+			"OptionA":"Geet Sethi",
+			"OptionB":"Wilson Jones",
+			"OptionC":"Michael Ferreira",
+			"OptionD":"Manoj Kothari",
+			"Answer":"B"
+		},
+		{
+			"_id":8,
+			"Question":"The term“Googly” is associated with",
+			"OptionA":"Cricket",
+			"OptionB":"Football",
+			"OptionC":"Badminton",
+			"OptionD":"Hockey",
+			"Answer":"A"
+		},
+		{
+			"_id":9,
+			"Question":"Krishna Poonia is associated with",
+			"OptionA":"Football",
+			"OptionB":"Hockey",
+			"OptionC":"Chess",
+			"OptionD":" Athletics",
+			"Answer":"D"
+		},
+		{
+			"_id":10,
+			"Question":"In 1924 the first winter Olympics was held in",
+			"OptionA":"Italy",
+			"OptionB":" France",
+			"OptionC":"Austria",
+			"OptionD":"Canada",
+			"Answer":"B"
+		},
+		{
+			"_id":11,
+			"Question":"Ricky Ponting is also known as",
+			"OptionA":"The Rickster",
+			"OptionB":"Ponts",
+			"OptionC":"Ponter",
+			"OptionD":"Punter",
+			"Answer":"D"
+		},
+		{
+			"_id":12,
+			"Question":"Ronaldo is associated with",
+			"OptionA":"Cricket",
+			"OptionB":"Football",
+			"OptionC":"Hockey",
+			"OptionD":"Tennis",
+			"Answer":"B"
+		},
+		{
+			"_id":13,
+			"Question":"Nickname of Glenn McGrath is",
+			"OptionA":"Ooh Ahh",
+			"OptionB":"Penguin",
+			"OptionC":"Big Bird",
+			"OptionD":"Pigeon",
+			"Answer":"D"
+		},
+		{
+			"_id":14,
+			"Question":"Mark Waugh is commonly called",
+			"OptionA":"Afganistan",
+			"OptionB":"Junior",
+			"OptionC":"Tugga",
+			"OptionD":"Julio",
+			"Answer":"A"
+		},
+		{
+			"_id":15,
+			"Question":"India won its first Olympic hockey gold in",
+			"OptionA":"1928",
+			"OptionB":"1932",
+			"OptionC":"1936",
+			"OptionD":"1948",
+			"Answer":"A"
+		},
+		{
+			"_id":16,
+			"Question":"Who won the 1993 \"King of the Ring\"",
+			"OptionA":"Owen Hart",
+			"OptionB":"Bret Hart",
+			"OptionC":"Edge",
+			"OptionD":"Mabel",
+			"Answer":"B"
+		},
+		{
+			"_id":17,
+			"Question":"Yankee Stadium in Newyork is associated with",
+			"OptionA":" Cricket",
+			"OptionB":"Tennis",
+			"OptionC":"Boxing",
+			"OptionD":"Hockey",
+			"Answer":"C"
+		},
+		{
+			"_id":18,
+			"Question":"Wankhede Stadium is at",
+			"OptionA":"New Delhi",
+			"OptionB":"Chennai",
+			"OptionC":"Mumbai",
+			"OptionD":"Kolkata",
+			"Answer":"C"
+		},
+		{
+			"_id":19,
+			"Question":"1st ODI captain for India",
+			"OptionA":"Ajit Wadekar",
+			"OptionB":"Bishen Singh Bedi",
+			"OptionC":"Nawab Pataudi",
+			"OptionD":"Vinoo Mankad",
+			"Answer":"A"
+		},
+		{
+			"_id":20,
+			"Question":"First hand glider was designed by",
+			"OptionA":"Leonardo DaVinci",
+			"OptionB":"The Wright brothers",
+			"OptionC":"Francis Rogallo",
+			"OptionD":"Galileo",
+			"Answer":"A"
+		},
+		{
+			"_id":21,
+			"Question":"The 'Dronacharya Award' is given to",
+			"OptionA":"Sportsmen",
+			"OptionB":"Coaches",
+			"OptionC":"Umpires",
+			"OptionD":"Sports Editors",
+			"Answer":"B"
+		},
+		{
+			"_id":22,
+			"Question":"Term associated with chess",
+			"OptionA":"Pitcher",
+			"OptionB":"Deuce",
+			"OptionC":"Vulnerable",
+			"OptionD":"Gambit",
+			"Answer":"D"
+		},
+		{
+			"_id":23,
+			"Question":"1st ODI match played in India at",
+			"OptionA":"New Delhi",
+			"OptionB":"Ahmedabad",
+			"OptionC":"Kolkata",
+			"OptionD":"Mumbai",
+			"Answer":"B"
+		},
+		{
+			"_id":24,
+			"Question":"First youth Olympic games was held in",
+			"OptionA":"Japan",
+			"OptionB":"China",
+			"OptionC":"Singapore",
+			"OptionD":"North Korea",
+			"Answer":"C"
+		},
+		{
+			"_id":25,
+			"Question":"Hurlington stadium is associated with",
+			"OptionA":"Golf",
+			"OptionB":"Boxing",
+			"OptionC":"Cricket",
+			"OptionD":"Polo",
+			"Answer":"D"
+		},
+	]
+}

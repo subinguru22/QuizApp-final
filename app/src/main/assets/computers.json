@@ -1,0 +1,823 @@
+{
+	"computers":
+	[
+		{
+			"_id":1,
+			"Question":"Protocol providing e-mail facility among different hosts",
+			"OptionA":"FTP",
+			"OptionB":"SMTP",
+			"OptionC":"TELNET",
+			"OptionD":"SNMP",
+			"Answer":"B"
+		},
+		{
+			"_id":2,
+			"Question":"Basic architecture of computer was developed by",
+			"OptionA":"John Von Neumann
+",
+			"OptionB":"Charles Babbage",
+			"OptionC":"Blaise Pascal",
+			"OptionD":"Garden Moore",
+			"Answer":"A"
+		},
+		{
+			"_id":3,
+			"Question":"In how many generations a computer can be classified",
+			"OptionA":"3",
+			"OptionB":"4",
+			"OptionC":"5",
+			"OptionD":"6",
+			"Answer":"C"
+		},
+		{
+			"_id":4,
+			"Question":"Fifth generation computers are based on",
+			"OptionA":"Artificial Intelligence",
+			"OptionB":"Programming Intelligence",
+			"OptionC":"System Knowledge",
+			"OptionD":"VVLSI",
+			"Answer":"A"
+		},
+		{
+			"_id":5,
+			"Question":"First generation of computer was based on",
+			"OptionA":"Transistor",
+			"OptionB":"LSI",
+			"OptionC":"VLSI",
+			"OptionD":"Vaccum Tube
+",
+			"Answer":"D"
+		},
+		{
+			"_id":6,
+			"Question":"Second generation computers are made of",
+			"OptionA":"Vaccum Tubes",
+			"OptionB":"Transistors",
+			"OptionC":"LSI",
+			"OptionD":"VLSI",
+			"Answer":"B"
+		},
+		{
+			"_id":7,
+			"Question":"Which of the following memory is non-volatile",
+			"OptionA":"SRAM",
+			"OptionB":"DRAM",
+			"OptionC":"ROM",
+			"OptionD":"All of the above",
+			"Answer":"C"
+		},
+		{
+			"_id":8,
+			"Question":"GUI stands for
+",
+			"OptionA":"Graph Use Interface",
+			"OptionB":"Graphical User Interface",
+			"OptionC":"Graphical Unique Interface",
+			"OptionD":"None of these",
+			"Answer":"B"
+		},
+		{
+			"_id":9,
+			"Question":"Time during which a job is processed by the computer is",
+			"OptionA":"Execution Time",
+			"OptionB":"Delay Time",
+			"OptionC":"Real Time",
+			"OptionD":"Waiting Time",
+			"Answer":"D"
+		},
+		{
+			"_id":10,
+			"Question":"Circuit  used as a 'Memory device' in computers",
+			"OptionA":"Rectifier",
+			"OptionB":"Flip Flop",
+			"OptionC":"Comparator",
+			"OptionD":"Attenuator",
+			"Answer":"B"
+		},
+		{
+			"_id":11,
+			"Question":"An error is also known as",
+			"OptionA":"Bug",
+			"OptionB":"Debug",
+			"OptionC":"Cursor",
+			"OptionD":"Icon",
+			"Answer":"A"
+		},
+		{
+			"_id":12,
+			"Question":"Microsoft Word is an example of",
+			"OptionA":"an operating system",
+			"OptionB":"Processing device",
+			"OptionC":"Application software",
+			"OptionD":"an input device",
+			"Answer":"C"
+		},
+		{
+			"_id":13,
+			"Question":"Who invented the super computer",
+			"OptionA":"PT Fransworth",
+			"OptionB":"JH Van Tassell",
+			"OptionC":"Charles Ginsberg",
+			"OptionD":"Charles Babbage",
+			"Answer":"B"
+		},
+		{
+			"_id":14,
+			"Question":"The size of commonly used floppy disk is",
+			"OptionA":"4.5",
+			"OptionB":"3.5",
+			"OptionC":"3.25",
+			"OptionD":"5.5",
+			"Answer":"B"
+		},
+		{
+			"_id":15,
+			"Question":"The 'IC' chip, used in computers, is made of",
+			"OptionA":"Chomium",
+			"OptionB":"Iron Oxide",
+			"OptionC":"Silica",
+			"OptionD":"Silicon",
+			"Answer":"D"
+		},
+		{
+			"_id":16,
+			"Question":"Operating systems is produced by IBM",
+			"OptionA":"OS-2",
+			"OptionB":"Windows",
+			"OptionC":"DOS",
+			"OptionD":"UNIX",
+			"Answer":"A"
+		},
+		{
+			"_id":17,
+			"Question":"Where is the headquarters of Intel located",
+			"OptionA":"Redmond, Washington",
+			"OptionB":"Tucson, Arizona",
+			"OptionC":"Santa Clara, California",
+			"OptionD":"Richmond, Virginia",
+			"Answer":"C"
+		},
+		{
+			"_id":18,
+			"Question":"Window's settings are recorded in",
+			"OptionA":"WINDOWS.INI",
+			"OptionB":"WIN.INI",
+			"OptionC":"SYSTEM.INI",
+			"OptionD":"GROUP.INI",
+			"Answer":"B"
+		},
+		{
+			"_id":19,
+			"Question":"Which network protocol is used to send e-mail",
+			"OptionA":"FTP",
+			"OptionB":"SSH",
+			"OptionC":"POP3",
+			"OptionD":"SMTP",
+			"Answer":"D"
+		},
+		{
+			"_id":20,
+			"Question":"Operating System is the most common type of _________ software",
+			"OptionA":"Communication",
+			"OptionB":"Application",
+			"OptionC":"System",
+			"OptionD":"Word Processing Software",
+			"Answer":"C"
+		},
+		{
+			"_id":21,
+			"Question":"The operating system manages",
+			"OptionA":"Memory",
+			"OptionB":"Processor",
+			"OptionC":"Disk and I/O Devices",
+			"OptionD":"All of the above",
+			"Answer":"D"
+		},
+		{
+			"_id":22,
+			"Question":"Which of the following memory is volatile",
+			"OptionA":"RAM",
+			"OptionB":"ROM",
+			"OptionC":"EPROM",
+			"OptionD":"PROM",
+			"Answer":"A"
+		},
+		{
+			"_id":23,
+			"Question":"Which of the following is the fastest",
+			"OptionA":"Magnetic Tapes and Disks",
+			"OptionB":"CPU",
+			"OptionC":"Video Terminal
+",
+			"OptionD":"Sensors",
+			"Answer":"B"
+		},
+		{
+			"_id":24,
+			"Question":"
+A kilobyte also referred to as KB, is equal to",
+			"OptionA":"1000 bytes",
+			"OptionB":"1024 bytes",
+			"OptionC":"2048 bytes",
+			"OptionD":"512 bytes",
+			"Answer":"B"
+		},
+		{
+			"_id":25,
+			"Question":"Computer Virus is a _______",
+			"OptionA":"Hardware",
+			"OptionB":"Software",
+			"OptionC":"Bacteria",
+			"OptionD":"Freeware",
+			"Answer":"B"
+		},
+		{
+			"_id":26,
+			"Question":"The most advanced form of ROM is",
+			"OptionA":"PROM",
+			"OptionB":"RAM",
+			"OptionC":"EEPROM",
+			"OptionD":"Cache Memory
+",
+			"Answer":"C"
+		},
+		{
+			"_id":27,
+			"Question":"Another term for Main Memory is",
+			"OptionA":"Hard Disk",
+			"OptionB":"ROM",
+			"OptionC":"Floppy Disk",
+			"OptionD":"RAM",
+			"Answer":"D"
+		},
+		{
+			"_id":28,
+			"Question":"One MB is equal to",
+			"OptionA":"1024 Byte",
+			"OptionB":"1024 KB",
+			"OptionC":"1000 KB",
+			"OptionD":"1024 GB",
+			"Answer":"B"
+		},
+		{
+			"_id":29,
+			"Question":"Internet Explorer is a type of",
+			"OptionA":"Operating System",
+			"OptionB":"Browser",
+			"OptionC":"IP address",
+			"OptionD":"Compiler",
+			"Answer":"B"
+		},
+		{
+			"_id":30,
+			"Question":"
+______ is the high speed memory used in the computer",
+			"OptionA":"RAM",
+			"OptionB":"Hard Disk
+",
+			"OptionC":"Cache",
+			"OptionD":"BIOS",
+			"Answer":"C"
+		},
+		{
+			"_id":31,
+			"Question":"A collection of 8 bits is called",
+			"OptionA":"Byte",
+			"OptionB":"Record",
+			"OptionC":"Word",
+			"OptionD":"Nibble",
+			"Answer":"A"
+		},
+		{
+			"_id":32,
+			"Question":"A list of instructions used by a computer is called",
+			"OptionA":"Text",
+			"OptionB":"CPU",
+			"OptionC":"Program",
+			"OptionD":"Output",
+			"Answer":"C"
+		},
+		{
+			"_id":33,
+			"Question":"Nesting of if-else statements is allowed in C Programming",
+			"OptionA":"Yes",
+			"OptionB":"No",
+			"OptionC":"None of above",
+			"OptionD":"All of above",
+			"Answer":"A"
+		},
+		{
+			"_id":34,
+			"Question":"For loop is _________",
+			"OptionA":"Function Controlled Loop",
+			"OptionB":"Exit Controlled Loop",
+			"OptionC":"Entry Controlled Loop",
+			"OptionD":"None of these",
+			"Answer":"C"
+		},
+		{
+			"_id":35,
+			"Question":"An Assembler is used to translate a program written in",
+			"OptionA":"Low-Level Language",
+			"OptionB":"Machine Language",
+			"OptionC":"Assembly Language",
+			"OptionD":"High-Level language",
+			"Answer":"C"
+		},
+		{
+			"_id":36,
+			"Question":"Which among following is an image name extension",
+			"OptionA":"gif",
+			"OptionB":"docx",
+			"OptionC":"ppt",
+			"OptionD":"lib",
+			"Answer":"A"
+		},
+		{
+			"_id":37,
+			"Question":"Father of Artificial Intelligence _______",
+			"OptionA":"John McCarthy",
+			"OptionB":"Vint Cerf",
+			"OptionC":"Dennis Ritchie",
+			"OptionD":"ames Gosling",
+			"Answer":"A"
+		},
+		{
+			"_id":38,
+			"Question":"Who invented Java",
+			"OptionA":"Deniss Ritche",
+			"OptionB":"James Gosling",
+			"OptionC":"Bajarnae",
+			"OptionD":"Linus Torvalds",
+			"Answer":"B"
+		},
+		{
+			"_id":39,
+			"Question":" Which term is related to database",
+			"OptionA":"PHP",
+			"OptionB":"Java",
+			"OptionC":"Oracle",
+			"OptionD":"Assembly",
+			"Answer":"C"
+		},
+		{
+			"_id":40,
+			"Question":"Which language was used as first generation language",
+			"OptionA":"Machine language",
+			"OptionB":"Assembly language",
+			"OptionC":"Java",
+			"OptionD":"C",
+			"Answer":"A"
+		},
+		{
+			"_id":41,
+			"Question":"Where is cahce memory is located",
+			"OptionA":"CPU",
+			"OptionB":"Monitor",
+			"OptionC":"Scanner",
+			"OptionD":"On file server",
+			"Answer":"A"
+		},
+		{
+			"_id":42,
+			"Question":"Which among following is odd one ",
+			"OptionA":"RAM",
+			"OptionB":"ROM",
+			"OptionC":"Cache",
+			"OptionD":"Hard Disk",
+			"Answer":"D"
+		},
+		{
+			"_id":43,
+			"Question":"Which operating system is developed by Apple",
+			"OptionA":"Linux",
+			"OptionB":"Window",
+			"OptionC":"Mac OS",
+			"OptionD":"DOS",
+			"Answer":"C"
+		},
+		{
+			"_id":44,
+			"Question":"What is full form of RAM ",
+			"OptionA":"Read Access Memory",
+			"OptionB":"Read Alternative Memory",
+			"OptionC":"Random Access Memory",
+			"OptionD":"Random Alternative Memory",
+			"Answer":"C"
+		},
+		{
+			"_id":45,
+			"Question":"Computer resolution measures",
+			"OptionA":"Size of screen",
+			"OptionB":"Shape of screen",
+			"OptionC":"Number of pixels",
+			"OptionD":"Number of colours it support",
+			"Answer":"C"
+		},
+		{
+			"_id":46,
+			"Question":"What is full form of CAM",
+			"OptionA":"Computer Aided Manufacturing",
+			"OptionB":"Computer And Manufacturing",
+			"OptionC":"Computer Aided Manifesto",
+			"OptionD":"Computer And Manifesto",
+			"Answer":"A"
+		},
+		{
+			"_id":47,
+			"Question":"Which type of storage device is a BIOS",
+			"OptionA":"Primary",
+			"OptionB":"Secondary",
+			"OptionC":"Tertiary",
+			"OptionD":"Not a storage device",
+			"Answer":"A"
+		},
+		{
+			"_id":48,
+			"Question":"One byte is equal to how many bits",
+			"OptionA":"4 bits",
+			"OptionB":"8 bits",
+			"OptionC":"12 bits",
+			"OptionD":"12 bits",
+			"Answer":"B"
+		},
+		{
+			"_id":49,
+			"Question":"Who invented keyboard",
+			"OptionA":"James Gosling",
+			"OptionB":"Steve Jobs",
+			"OptionC":"Martin cooper",
+			"OptionD":"Christoper Latham Sholes",
+			"Answer":"D"
+		},
+		{
+			"_id":50,
+			"Question":" What is meaning of OMR",
+			"OptionA":"Optical Mark Reader",
+			"OptionB":"Optical Message Reader",
+			"OptionC":"Optical Message Render",
+			"OptionD":"Optical Mark Render",
+			"Answer":"A"
+		},
+		{
+			"_id":51,
+			"Question":"Who is also known as father of Jquery",
+			"OptionA":"Vint cerf",
+			"OptionB":"John Resig",
+			"OptionC":"Larry Page",
+			"OptionD":"Chales Babbage",
+			"Answer":"B"
+		},
+		{
+			"_id":52,
+			"Question":"Who invented C++",
+			"OptionA":"Steve Jobs",
+			"OptionB":"James Gosling",
+			"OptionC":"Bjarne Stroustrup",
+			"OptionD":"Dennis Ritchie",
+			"Answer":"C"
+		},
+		{
+			"_id":53,
+			"Question":"Which is odd one",
+			"OptionA":"Inkjet Printers",
+			"OptionB":"CRT",
+			"OptionC":"Laser Printers",
+			"OptionD":"Dot Matrix Printers",
+			"Answer":"B"
+		},
+		{
+			"_id":54,
+			"Question":"IP address version 4 is in which format ",
+			"OptionA":"4 bit",
+			"OptionB":"8 bit",
+			"OptionC":"16 bit",
+			"OptionD":"32 bit",
+			"Answer":"D"
+		},
+		{
+			"_id":55,
+			"Question":"Which type of software is an operating system ",
+			"OptionA":"Utility Software",
+			"OptionB":"System Software",
+			"OptionC":"Application Software",
+			"OptionD":"Firmware Software",
+			"Answer":"B"
+		},
+		{
+			"_id":56,
+			"Question":"Which type of switching is used in Internet ",
+			"OptionA":"Packet",
+			"OptionB":"Telephone",
+			"OptionC":"Circuit",
+			"OptionD":"Telex",
+			"Answer":"A"
+		},
+		{
+			"_id":57,
+			"Question":"Component of computer  also considered as it Heart ",
+			"OptionA":"Monitor",
+			"OptionB":"Keyboard",
+			"OptionC":"Scanner",
+			"OptionD":"Microprocessor",
+			"Answer":"D"
+		},
+		{
+			"_id":58,
+			"Question":"What is used to make computer chips",
+			"OptionA":"Copper",
+			"OptionB":"Steel",
+			"OptionC":"Silicon",
+			"OptionD":"Iron",
+			"Answer":"C"
+		},
+		{
+			"_id":59,
+			"Question":"Where BIOS is stored ",
+			"OptionA":"Hard Disk",
+			"OptionB":"RAM",
+			"OptionC":"Flash Memory Chip",
+			"OptionD":"Any of above",
+			"Answer":"C"
+		},
+		{
+			"_id":60,
+			"Question":"Random Access Memory (RAM) is which storage of device",
+			"OptionA":"Primay",
+			"OptionB":"Secondary",
+			"OptionC":"Teriary",
+			"OptionD":"Off line",
+			"Answer":"A"
+		},
+		{
+			"_id":61,
+			"Question":"What is full form of SMPS ",
+			"OptionA":"Switch Mode Power Supply",
+			"OptionB":"Simple Mode Power Supply",
+			"OptionC":"Storage Mode Power Supply",
+			"OptionD":"Storage Mode Power Shortage",
+			"Answer":"A"
+		},
+		{
+			"_id":62,
+			"Question":"Where are saved files stored in computer",
+			"OptionA":"RAM",
+			"OptionB":"Hard disk",
+			"OptionC":"Cache",
+			"OptionD":"Any of above",
+			"Answer":"B"
+		},
+		{
+			"_id":63,
+			"Question":"Which among following is odd",
+			"OptionA":"CD/DVD",
+			"OptionB":"Floopy Disks",
+			"OptionC":"SD Disk",
+			"OptionD":"BIOS",
+			"Answer":"D"
+		},
+		{
+			"_id":64,
+			"Question":"Which operations are performed by RAM",
+			"OptionA":"Read",
+			"OptionB":"Write",
+			"OptionC":"Read and Write",
+			"OptionD":"Depends on computer",
+			"Answer":"C"
+		},
+		{
+			"_id":65,
+			"Question":"USB is which type of storage device",
+			"OptionA":"Primay",
+			"OptionB":"Secondary",
+			"OptionC":"Tertiary",
+			"OptionD":"None of above",
+			"Answer":"C"
+		},
+		{
+			"_id":66,
+			"Question":" Who was the Founder of Bluetooth",
+			"OptionA":"Ericson",
+			"OptionB":"Martin Cooper",
+			"OptionC":"Steve Jobs",
+			"OptionD":"Apple",
+			"Answer":"A"
+		},
+		{
+			"_id":67,
+			"Question":"Who was the father of Internet",
+			"OptionA":"Chares Babbage",
+			"OptionB":"Vint Cerf",
+			"OptionC":"Denis Riche",
+			"OptionD":"Martin Cooper",
+			"Answer":"B"
+		},
+		{
+			"_id":68,
+			"Question":"Verification is process of ",
+			"OptionA":"Access",
+			"OptionB":"Login",
+			"OptionC":"Logout",
+			"OptionD":"Authentication",
+			"Answer":"D"
+		},
+		{
+			"_id":69,
+			"Question":"What is LINUX",
+			"OptionA":"Malware",
+			"OptionB":"Operating System",
+			"OptionC":"Application Program",
+			"OptionD":"Firmware",
+			"Answer":"B"
+		},
+		{
+			"_id":70,
+			"Question":"Which is most common language used in web designing ",
+			"OptionA":"C",
+			"OptionB":"C++",
+			"OptionC":"PHP",
+			"OptionD":"HTML",
+			"Answer":"D"
+		},
+		{
+			"_id":71,
+			"Question":"In which of the following form, data is stored in computer ",
+			"OptionA":"Decimal",
+			"OptionB":"Binary",
+			"OptionC":"HexaDecimal",
+			"OptionD":"Octal",
+			"Answer":"B"
+		},
+		{
+			"_id":72,
+			"Question":"Which of following is used in RAM",
+			"OptionA":"Conductor",
+			"OptionB":"Semi Conductor",
+			"OptionC":"Vaccum Tubes",
+			"OptionD":"Transistor",
+			"Answer":"B"
+		},
+		{
+			"_id":73,
+			"Question":" Full form of GUI",
+			"OptionA":"Graphical user Instrument",
+			"OptionB":"Graphical unified Interface",
+			"OptionC":"Graphical user Interface",
+			"OptionD":"None of above",
+			"Answer":"C"
+		},
+		{
+			"_id":74,
+			"Question":"What is full form of ALU",
+			"OptionA":"Arithmetic logic unit",
+			"OptionB":"Allowed logic unit",
+			"OptionC":"Ascii logic unit",
+			"OptionD":"Arithmetic least unit",
+			"Answer":"A"
+		},
+		{
+			"_id":75,
+			"Question":"WWW stands for",
+			"OptionA":"World Whole Web",
+			"OptionB":"Wide World Web",
+			"OptionC":"Web World Wide",
+			"OptionD":"World Wide Web",
+			"Answer":"D"
+		},
+		{
+			"_id":76,
+			"Question":"Where is RAM located",
+			"OptionA":"Expansion Board",
+			"OptionB":"External Drive",
+			"OptionC":"Mother Board",
+			"OptionD":"All of above",
+			"Answer":"C"
+		},
+		{
+			"_id":77,
+			"Question":" Full form of URL ",
+			"OptionA":"Uniform Resource Locator",
+			"OptionB":"Uniform Resource Link",
+			"OptionC":"Uniform Registered Link",
+			"OptionD":"Unified Resource Link",
+			"Answer":"A"
+		},
+		{
+			"_id":78,
+			"Question":"The parity bit is added for the purpose of",
+			"OptionA":"Coding",
+			"OptionB":"Error detection",
+			"OptionC":"Controlling",
+			"OptionD":" Indexing",
+			"Answer":"B"
+		},
+		{
+			"_id":79,
+			"Question":"DNS refers to",
+			"OptionA":" Data Number Sequence",
+			"OptionB":" Digital Network Service",
+			"OptionC":"Domain Name System",
+			"OptionD":"Disk Numbering System",
+			"Answer":"C"
+		},
+		{
+			"_id":80,
+			"Question":"Java was originally invented by",
+			"OptionA":"Oracle",
+			"OptionB":" Microsoft",
+			"OptionC":"Novell",
+			"OptionD":"Sun",
+			"Answer":"D"
+		},
+		{
+			"_id":81,
+			"Question":"The unit of speed used for super computer is",
+			"OptionA":" KELOPS",
+			"OptionB":"GELOPS",
+			"OptionC":"MELOPS",
+			"OptionD":"None of these",
+			"Answer":"B"
+		},
+		{
+			"_id":82,
+			"Question":"Which gate is a single integrated circuit",
+			"OptionA":"Gate",
+			"OptionB":"Mother Board",
+			"OptionC":" Chip",
+			"OptionD":" CPU",
+			"Answer":"A"
+		},
+		{
+			"_id":83,
+			"Question":"Web pages are written using",
+			"OptionA":" FTP",
+			"OptionB":"HTTP",
+			"OptionC":"HTML",
+			"OptionD":" URL",
+			"Answer":"C"
+		},
+		{
+			"_id":84,
+			"Question":"_______  is need to build dynamic web documents",
+			"OptionA":" CGI",
+			"OptionB":"Java",
+			"OptionC":"HTML",
+			"OptionD":"All of the above",
+			"Answer":"D"
+		},
+		{
+			"_id":85,
+			"Question":"Compilers and Interpreters are themselves",
+			"OptionA":"High level language",
+			"OptionB":"Codes",
+			"OptionC":"Mnemonics",
+			"OptionD":"Programs",
+			"Answer":"D"
+		},
+		{
+			"_id":86,
+			"Question":"Find the odd one out",
+			"OptionA":"FTP",
+			"OptionB":" POP",
+			"OptionC":"SAP",
+			"OptionD":"TCP",
+			"Answer":"B"
+		},
+		{
+			"_id":87,
+			"Question":"Select the smallest memory size",
+			"OptionA":"Terabyte",
+			"OptionB":"Gigabyte",
+			"OptionC":"Kilobyte",
+			"OptionD":"Megabyte",
+			"Answer":"C"
+		},
+		{
+			"_id":88,
+			"Question":"Full form of TCP is",
+			"OptionA":"ransmission control program",
+			"OptionB":"Totalling control program",
+			"OptionC":"Transmission control protocol",
+			"OptionD":" Total control Protocol",
+			"Answer":"C"
+		},
+		{
+			"_id":89,
+			"Question":"Pick the odd one out",
+			"OptionA":"Microsoft",
+			"OptionB":"IBM",
+			"OptionC":"Novell",
+			"OptionD":"Windows",
+			"Answer":"D"
+		},
+		{
+			"_id":90,
+			"Question":"Choose the odd one out",
+			"OptionA":"Digital computer",
+			"OptionB":"Super computer",
+			"OptionC":"Minicomputer",
+			"OptionD":"Micro computer",
+			"Answer":"A"
+		},
+	]
+}

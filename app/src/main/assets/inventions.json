@@ -1,0 +1,231 @@
+{
+	"inventions":
+	[
+		{
+			"_id":1,
+			"Question":"Who invented the BALLPOINT PEN",
+			"OptionA":"Biro Brothers",
+			"OptionB":"Waterman Brothers",
+			"OptionC":"Bicc Brothers",
+			"OptionD":"Write Brothers",
+			"Answer":"A"
+		},
+		{
+			"_id":2,
+			"Question":"What J. B. Dunlop invented",
+			"OptionA":"Pneumatic rubber tire",
+			"OptionB":"Automobile wheel rim",
+			"OptionC":"Rubber boot",
+			"OptionD":"Model airplanes",
+			"Answer":"A"
+		},
+		{
+			"_id":3,
+			"Question":"Who discovered radioactive element radium",
+			"OptionA":"Isaac Newton",
+			"OptionB":"Albert Einstein",
+			"OptionC":"Benjamin Franklin",
+			"OptionD":"Marie Curie",
+			"Answer":"D"
+		},
+		{
+			"_id":4,
+			"Question":"When was barb wire patented",
+			"OptionA":"1874",
+			"OptionB":"1840",
+			"OptionC":"1895",
+			"OptionD":"1900",
+			"Answer":"A"
+		},
+		{
+			"_id":5,
+			"Question":"James Watt invented",
+			"OptionA":"Diving bell",
+			"OptionB":"Steam boat",
+			"OptionC":"Hot air balloon",
+			"OptionD":"steam engine",
+			"Answer":"D"
+		},
+		{
+			"_id":6,
+			"Question":"Who invented Jet Engine",
+			"OptionA":"Sir Frank Whittle",
+			"OptionB":"Gottlieb Daimler",
+			"OptionC":"Roger Bacon",
+			"OptionD":"Lewis E. Waterman",
+			"Answer":"A"
+		},
+		{
+			"_id":7,
+			"Question":"Invention caused many deaths while testing",
+			"OptionA":"Dynamite",
+			"OptionB":"Ladders",
+			"OptionC":"Race cars",
+			"OptionD":"Parachute",
+			"Answer":"D"
+		},
+		{
+			"_id":8,
+			"Question":"Who invented Gunpowder",
+			"OptionA":"Sir Frank Whittle",
+			"OptionB":"Roger Bacon",
+			"OptionC":"Leo H Baekeland",
+			"OptionD":"Ferdinand Von",
+			"Answer":"B"
+		},
+		{
+			"_id":9,
+			"Question":"Benjamin Franklin invented",
+			"OptionA":"Bifocal spectacles",
+			"OptionB":"Radio",
+			"OptionC":"Barometer",
+			"OptionD":"Hygrometer",
+			"Answer":"A"
+		},
+		{
+			"_id":10,
+			"Question":"Joe McVicker invented",
+			"OptionA":"Silly Putty",
+			"OptionB":"Etch-A-Sketch",
+			"OptionC":"Lite-Brite",
+			"OptionD":"Play-Doh",
+			"Answer":"D"
+		},
+		{
+			"_id":11,
+			"Question":"Who invented Gramophone",
+			"OptionA":"Michael Faraday",
+			"OptionB":"Fahrenheit",
+			"OptionC":"Graham Bell",
+			"OptionD":"Thomas Alva Edison",
+			"Answer":"D"
+		},
+		{
+			"_id":12,
+			"Question":"When was the first lawn mower invented",
+			"OptionA":"1830",
+			"OptionB":"1854",
+			"OptionC":"1835",
+			"OptionD":"1849",
+			"Answer":"A"
+		},
+		{
+			"_id":13,
+			"Question":" Physicist responsible for  'Big Bang Theory'",
+			"OptionA":"Albert Einstein",
+			"OptionB":"Michael Skube",
+			"OptionC":"George Gamow",
+			"OptionD":"Roger Penrose",
+			"Answer":"C"
+		},
+		{
+			"_id":14,
+			"Question":"Who invented the fountain pen",
+			"OptionA":" Waterman",
+			"OptionB":"Sir William Grove",
+			"OptionC":"Charles Kettering",
+			"OptionD":"George Fountain",
+			"Answer":"A"
+		},
+		{
+			"_id":15,
+			"Question":"When was the first elevator built",
+			"OptionA":"1743",
+			"OptionB":"1740",
+			"OptionC":"1753",
+			"OptionD":"1763",
+			"Answer":"A"
+		},
+		{
+			"_id":16,
+			"Question":"Enrico Fermi invented",
+			"OptionA":"X ray machine",
+			"OptionB":"Betatron",
+			"OptionC":"Cyclotron",
+			"OptionD":"Nuclear reactor",
+			"Answer":"D"
+		},
+		{
+			"_id":17,
+			"Question":"Thomas Davenport invented",
+			"OptionA":"Screw propellor",
+			"OptionB":"Electric streetcar",
+			"OptionC":"Chesterfield",
+			"OptionD":"Sleeping (railway) car",
+			"Answer":"B"
+		},
+		{
+			"_id":18,
+			"Question":"Elisha Otis invented",
+			"OptionA":"Brake used in  elevators",
+			"OptionB":"Jet Engine",
+			"OptionC":"Turbine",
+			"OptionD":"Hydraulic Crane",
+			"Answer":"A"
+		},
+		{
+			"_id":19,
+			"Question":"Where was the yo-yo invented",
+			"OptionA":"France",
+			"OptionB":"United States",
+			"OptionC":"Philippines",
+			"OptionD":"England",
+			"Answer":"C"
+		},
+		{
+			"_id":20,
+			"Question":"
+When were blue jeans invented",
+			"OptionA":"1900s",
+			"OptionB":"1860s",
+			"OptionC":"1870s",
+			"OptionD":"1850s",
+			"Answer":"D"
+		},
+		{
+			"_id":21,
+			"Question":"Who invented Electric Generator",
+			"OptionA":"Alfred B. Nobel",
+			"OptionB":" Graham Bell",
+			"OptionC":"Michael Faraday",
+			"OptionD":"Alva Edison",
+			"Answer":"C"
+		},
+		{
+			"_id":22,
+			"Question":"Transistor was invented in",
+			"OptionA":"1940s",
+			"OptionB":"1960s",
+			"OptionC":"1950s",
+			"OptionD":"1980s",
+			"Answer":"A"
+		},
+		{
+			"_id":23,
+			"Question":"Karl Benz invented",
+			"OptionA":"Gasoline powered automobile",
+			"OptionB":"Streetcar",
+			"OptionC":"Glider",
+			"OptionD":"Steam turbine",
+			"Answer":"A"
+		},
+		{
+			"_id":24,
+			"Question":"Bar code scanners were invented in",
+			"OptionA":"1940s",
+			"OptionB":"1950s",
+			"OptionC":"1970s",
+			"OptionD":"1960s",
+			"Answer":"C"
+		},
+		{
+			"_id":25,
+			"Question":"Who invented Dynamite",
+			"OptionA":"Alexander Graham Bell",
+			"OptionB":"Benjamin Franklin",
+			"OptionC":"Thomas Alva Edison",
+			"OptionD":"Alfred B. Nobel",
+			"Answer":"D"
+		},
+	]
+}

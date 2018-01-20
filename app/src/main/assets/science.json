@@ -1,0 +1,280 @@
+{
+	"science":
+	[
+		{
+			"_id":1,
+			"Question":"Electric bulb filament is made of",
+			"OptionA":"Copper",
+			"OptionB":"Aluminum",
+			"OptionC":"Lead",
+			"OptionD":"Tungsten",
+			"Answer":"D"
+		},
+		{
+			"_id":2,
+			"Question":"Which of the following is used in pencils",
+			"OptionA":"Graphite",
+			"OptionB":"Silicon",
+			"OptionC":"Charcoal",
+			"OptionD":"Phosphorous",
+			"Answer":"A"
+		},
+		{
+			"_id":3,
+			"Question":"The gas usually filled in the electric bulb is",
+			"OptionA":"Nitrogen",
+			"OptionB":"Hydrogen",
+			"OptionC":"Carbon dioxide",
+			"OptionD":"Oxygen",
+			"Answer":"A"
+		},
+		{
+			"_id":4,
+			"Question":"Washing soda is the common name for",
+			"OptionA":"Sodium Carbonate",
+			"OptionB":"Calcium Bicarbonate",
+			"OptionC":"Sodium Bicarbonate",
+			"OptionD":"Calcium Carbonate",
+			"Answer":"A"
+		},
+		{
+			"_id":5,
+			"Question":"
+Quartz crystals is chemically",
+			"OptionA":"Silicon Dioxide",
+			"OptionB":"Germanium Oxide",
+			"OptionC":"Sodium Silicate",
+			"OptionD":"Sulphur",
+			"Answer":"A"
+		},
+		{
+			"_id":6,
+			"Question":"Not known as green house gas",
+			"OptionA":"Methane",
+			"OptionB":"Nitrous oxide",
+			"OptionC":"Carbon dioxide",
+			"OptionD":"Hydrogen",
+			"Answer":"D"
+		},
+		{
+			"_id":7,
+			"Question":"Bromine is a",
+			"OptionA":"Black Solid",
+			"OptionB":"Red Liquid",
+			"OptionC":"Colourless Gas",
+			"OptionD":"Highly Inflammable Gas",
+			"Answer":"B"
+		},
+		{
+			"_id":8,
+			"Question":" Hardest substance available on earth",
+			"OptionA":"Gold",
+			"OptionB":"Iron",
+			"OptionC":"Diamond",
+			"OptionD":"Platinum",
+			"Answer":"C"
+		},
+		{
+			"_id":9,
+			"Question":"Tetraethyl lead is used as",
+			"OptionA":"Pain Killer",
+			"OptionB":"Fire Extinguisher",
+			"OptionC":"Mosquito Repellent",
+			"OptionD":"Petrol Additive",
+			"Answer":"D"
+		},
+		{
+			"_id":10,
+			"Question":"Used as a lubricant",
+			"OptionA":"Graphite",
+			"OptionB":"Silica",
+			"OptionC":"Iron Oxide",
+			"OptionD":"Diamond",
+			"Answer":"A"
+		},
+		{
+			"_id":11,
+			"Question":"The average salinity of sea water is",
+			"OptionA":"3%",
+			"OptionB":"3.5%",
+			"OptionC":"2.5%",
+			"OptionD":"2%",
+			"Answer":"B"
+		},
+		{
+			"_id":12,
+			"Question":"Galvanised iron sheets have a coating of",
+			"OptionA":"Lead",
+			"OptionB":"Chromium",
+			"OptionC":"Zinc",
+			"OptionD":"Tin",
+			"Answer":"C"
+		},
+		{
+			"_id":13,
+			"Question":"Fe, Co, Ni may best called as",
+			"OptionA":"Transition metals",
+			"OptionB":"Main group metals",
+			"OptionC":"Alkali metals",
+			"OptionD":"Rare metals",
+			"Answer":"A"
+		},
+		{
+			"_id":14,
+			"Question":"Heavy water is",
+			"OptionA":"Deuterium oxide",
+			"OptionB":"PH7",
+			"OptionC":"Rain water",
+			"OptionD":"Tritium oxide",
+			"Answer":"A"
+		},
+		{
+			"_id":15,
+			"Question":"The element common to all acids is",
+			"OptionA":"Hydrogen",
+			"OptionB":"Carbon",
+			"OptionC":"Sulphur",
+			"OptionD":"Oxygen",
+			"Answer":"A"
+		},
+		{
+			"_id":16,
+			"Question":"Non stick cooking utensils are coated with",
+			"OptionA":"Black paint",
+			"OptionB":"PVC",
+			"OptionC":"Teflon",
+			"OptionD":"Polystyrene",
+			"Answer":"C"
+		},
+		{
+			"_id":17,
+			"Question":"Monazite is an ore of",
+			"OptionA":"Titanium",
+			"OptionB":"Zirconium",
+			"OptionC":"Iron",
+			"OptionD":"Thorium",
+			"Answer":"D"
+		},
+		{
+			"_id":18,
+			"Question":"Potassium nitrate is used in",
+			"OptionA":"Medicine",
+			"OptionB":"Fertilizer",
+			"OptionC":"Salt",
+			"OptionD":"Glass",
+			"Answer":"B"
+		},
+		{
+			"_id":19,
+			"Question":"Soda water contains",
+			"OptionA":"Carbonic acid",
+			"OptionB":"Sulphuric acid",
+			"OptionC":"Carbon dioxide",
+			"OptionD":"Nitrous acid",
+			"Answer":"C"
+		},
+		{
+			"_id":20,
+			"Question":"Most soluble in water is",
+			"OptionA":"Camphor",
+			"OptionB":"Sulphur",
+			"OptionC":"Common salt",
+			"OptionD":"Sugar",
+			"Answer":"D"
+		},
+		{
+			"_id":21,
+			"Question":"Sodium metal is kept under",
+			"OptionA":"Petrol",
+			"OptionB":"Alcohol",
+			"OptionC":"Water",
+			"OptionD":"Kerosene",
+			"Answer":"D"
+		},
+		{
+			"_id":22,
+			"Question":"What is laughing gas",
+			"OptionA":"Nitrous Oxide",
+			"OptionB":"Carbon monoxide",
+			"OptionC":"Sulphur dioxide",
+			"OptionD":"Hydrogen peroxide",
+			"Answer":"A"
+		},
+		{
+			"_id":23,
+			"Question":" SPICE simulator was introduced in",
+			"OptionA":"1950s",
+			"OptionB":"1960s",
+			"OptionC":"1972s",
+			"OptionD":"1980s",
+			"Answer":"C"
+		},
+		{
+			"_id":24,
+			"Question":"Who developed Yahoo",
+			"OptionA":"Dennis Ritchie",
+			"OptionB":"David Filo & Jerry Yang",
+			"OptionC":"Vint Cerf",
+			"OptionD":"Steve Case ",
+			"Answer":"B"
+		},
+		{
+			"_id":25,
+			"Question":"Motor  NOT suitable for use as a DC machine",
+			"OptionA":"Permanent magnet motor",
+			"OptionB":"Series motor",
+			"OptionC":"Squirrel cage motor",
+			"OptionD":"Synchronous motor",
+			"Answer":"C"
+		},
+		{
+			"_id":26,
+			"Question":"What frequency range is the High Frequency band",
+			"OptionA":"100 kHz
+",
+			"OptionB":"1 GHz",
+			"OptionC":"30 to 300 MHz",
+			"OptionD":"3 to 30 MHz",
+			"Answer":"D"
+		},
+		{
+			"_id":27,
+			"Question":"'DB' computer abbreviation  means",
+			"OptionA":"Database",
+			"OptionB":"Double Byte",
+			"OptionC":"Data Block",
+			"OptionD":"Driver Boot",
+			"Answer":"A"
+		},
+		{
+			"_id":28,
+			"Question":"'.INI' extension refers  to",
+			"OptionA":"Image file
+",
+			"OptionB":"System file",
+			"OptionC":"Hypertext related file",
+			"OptionD":"Image Color file",
+			"Answer":"B"
+		},
+		{
+			"_id":29,
+			"Question":"'.TMP' extension refers  to ",
+			"OptionA":"Compressed Archive file
+",
+			"OptionB":"Image file",
+			"OptionC":"Temporary file",
+			"OptionD":"Audio file
+",
+			"Answer":"C"
+		},
+		{
+			"_id":30,
+			"Question":"What does AM mean",
+			"OptionA":"Angelo marconi",
+			"OptionB":"Anno median",
+			"OptionC":"Amplitude modulation",
+			"OptionD":"Amperes",
+			"Answer":"C"
+		},
+	]
+}
